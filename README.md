@@ -76,4 +76,4 @@ This is a hybrid web-based chatbot that integrates rule-based dialogue, logic pr
 ## 🙋‍♂️ Author
 
 **Aaliyan Arif**  
-Reach out via [LinkedIn](https://www.linkedin.com/) or open an issue for support.
+Reach out via [LinkedIn](https://www.linkedin.com/in/aaliyan-arif-b17172276) or open an issue for support.
