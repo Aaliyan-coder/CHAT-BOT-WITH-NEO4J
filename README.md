@@ -72,9 +72,6 @@ This is a hybrid web-based chatbot that integrates rule-based dialogue, logic pr
 
 - Explore dynamic answers using NLTK and Prolog combined.
 
-## 🔒 License
-
-This project is open-source and available under the **MIT License**.
 
 ## 🙋‍♂️ Author
 
